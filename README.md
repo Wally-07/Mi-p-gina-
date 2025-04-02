@@ -1,2 +1,2 @@
-# Mi-p-gina-
+# Mi-pagina-
 index.html
